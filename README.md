@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @matijanjic
+- 👀 I’m interested in learning programming
+- 🌱 I’m currently learning programming 
+- 💞️ I’m looking to collaborate on learning programming
+- 📫 How to reach me - matijanjic@gmail.com
+
+But in all seriousness, I'm a graphic designer looking to change careers. Loved programming since childhood, never taken it seriously until covid hit. Loving it since.
+Python, a bit of C, Java and Kotlin.
+
+<!---
+matijanjic/matijanjic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
