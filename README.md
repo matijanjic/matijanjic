@@ -3,7 +3,7 @@
 - 📫 How to reach me - matijanjic@gmail.com
 
 But in all seriousness, I'm a graphic designer looking to change careers. Loved programming since childhood, never taken it seriously until covid hit. Loving it since.
-React, Node.js, Python, a bit of C, Java and Kotlin.
+Javascript, React, Node.js, Python, a bit of C, Java and Kotlin.
 
 <!---
 matijanjic/matijanjic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
